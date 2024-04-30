@@ -14,6 +14,11 @@ html {
     height: 450px;
 }
 
+.desPIC{
+    width:650px;
+     height:400px;
+}
+
 .navbar-expand-lg {
     display: inline;
     justify-content: space-between;
@@ -88,4 +93,30 @@ margin-left: 150px;}
     
     padding-top: 20px;
     
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    body {
+        display: block;
+        /* display: inline-block; */
+        background-color: white;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: top;
+        align-items: center;
+    }
+
+
+    .desPIC {
+        width:350px;
+         height:250px;
+         align-items: center;
+       
+    }
+
+
+    .edu1 { padding-left: 0px;}
 }
