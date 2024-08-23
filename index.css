@@ -585,6 +585,7 @@ input[type=submit]:hover {
         width: auto; */
         height: 150px;
         display: flex;
+        padding-right: 50px;
        
 
     }
@@ -593,7 +594,7 @@ input[type=submit]:hover {
         display: block;
         width: 400px;
         height: 200px;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 70px;
         margin-bottom: 50px;
 
