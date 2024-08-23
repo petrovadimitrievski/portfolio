@@ -550,6 +550,15 @@ input[type=submit]:hover {
         margin-top: 0px;
     }
 
+    header { 
+        background-color: #F6DBE3;
+        width: auto;
+    }
+
+    .toggleContainer {
+        background-color: #F6DBE3;
+    }
+
 
 
     .topNavList {
@@ -558,6 +567,7 @@ input[type=submit]:hover {
         width: 100%;
         margin-left: -50%;
         justify-content: space-between;
+        background-color: #F6DBE3;
     }
 
 
@@ -568,7 +578,7 @@ input[type=submit]:hover {
         font-size: 18px;
         font-weight: 700;
         color: #07439C;
-        background-color: white;
+        background-color: #F6DBE3;
         margin: 10px;
 
     }
