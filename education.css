@@ -119,4 +119,8 @@ margin-left: 150px;}
 
 
     .edu1 { padding-left: 0px;}
+
+    a.navbar-brand {
+        padding-left: 100px;
+    }
 }
